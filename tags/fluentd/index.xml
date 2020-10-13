@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>fluentd - 标签 - 李斯文的笔记本</title>
+        <link>https://lixianyang.github.io/tags/fluentd/</link>
+        <description>fluentd - 标签 - 李斯文的笔记本</description>
+        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>705834854@qq.com (李斯文)</managingEditor>
+            <webMaster>705834854@qq.com (李斯文)</webMaster><lastBuildDate>Fri, 27 Mar 2020 23:40:31 &#43;0800</lastBuildDate><atom:link href="https://lixianyang.github.io/tags/fluentd/" rel="self" type="application/rss+xml" /><item>
+    <title>fluentd write to kafka hang</title>
+    <link>https://lixianyang.github.io/posts/fluentd-write-to-kafka-hang/</link>
+    <pubDate>Fri, 27 Mar 2020 23:40:31 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://lixianyang.github.io/posts/fluentd-write-to-kafka-hang/</guid>
+    <description><![CDATA[日志截断 kafka message 默认有 1M 大小的限制(可以调整)，在收集日志时，太长的日志需要进行截断处理，配置如下： 1 2 3 4 5 6 7 &lt;filter test-log.**&gt; @type record_transformer enable_ruby true &lt;record&gt; log ${record.dig(&#34;log&#34;)[0, 999000] } &lt;/record&gt; &lt;/filter&gt; 这里]]></description>
+</item><item>
+    <title>fluentd 镜像构建与常用配置</title>
+    <link>https://lixianyang.github.io/posts/fluentd-%E9%95%9C%E5%83%8F%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</link>
+    <pubDate>Sun, 22 Mar 2020 23:40:31 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://lixianyang.github.io/posts/fluentd-%E9%95%9C%E5%83%8F%E6%9E%84%E5%BB%BA%E4%B8%8E%E5%B8%B8%E7%94%A8%E9%85%8D%E7%BD%AE/</guid>
+    <description><![CDATA[镜像 基础镜像 quay.io/fluentd_elasticsearch/fluentd:v2.9.0. 基础镜像 Dockerfile 项目地址 构建自己的镜像 1 2 3 4 5 6 FROMquay.io/fluentd_elasticsearch/fluentd:v2.9.0RUN gem uninstall fluent-plugin-kubernetes_metadata_filter --version=2.4.1 &amp;&amp; \ gem uninstall kubeclient --version=4.5.0 &amp;&amp; \ gem uninstall fluentd --version=1.8.0 &amp;&amp; \ gem install fluentd fluent-plugin-kubernetes_metadata_filter kubeclient fluent-plugin-kafka 配置 基本命令 配置文件主要由以下命]]></description>
+</item></channel>
+</rss>

@@ -6,10 +6,10 @@
         <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>705834854@qq.com (李斯文)</managingEditor>
             <webMaster>705834854@qq.com (李斯文)</webMaster><lastBuildDate>Sun, 09 Aug 2020 23:40:31 &#43;0800</lastBuildDate><atom:link href="https://lixianyang.github.io/tags/k8s/" rel="self" type="application/rss+xml" /><item>
     <title>kubernetes 源码阅读之 client-go 源码结构与客户端对象</title>
-    <link>https://lixianyang.github.io/posts/client-go-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/</link>
+    <link>https://lixianyang.github.io/posts/client-go-source-code/</link>
     <pubDate>Sun, 09 Aug 2020 23:40:31 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://lixianyang.github.io/posts/client-go-%E6%BA%90%E7%A0%81%E9%98%85%E8%AF%BB/</guid>
+    <guid>https://lixianyang.github.io/posts/client-go-source-code/</guid>
     <description><![CDATA[client-go 介绍 Kubernetes 系统使用 client-go 作为 go 语言的官方编程式交互客户端库，提供对 Kubernetes API Server 服务的交互访问。开发者常使用 client-go 基于 Kubernetes 做二次开发，所以 client-go 是开发者应熟练掌握的]]></description>
 </item></channel>
 </rss>

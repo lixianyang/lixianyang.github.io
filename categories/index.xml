@@ -1,43 +1,43 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - 分类 - 李斯文的笔记本</title>
-        <link>https://lixianyang.github.io/categories/</link>
+        <link>https://www.lixianyang.xyz/categories/</link>
         <description>Categories - 分类 - 李斯文的笔记本</description>
         <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>705834854@qq.com (李斯文)</managingEditor>
-            <webMaster>705834854@qq.com (李斯文)</webMaster><lastBuildDate>Sun, 09 Aug 2020 23:40:31 &#43;0800</lastBuildDate><atom:link href="https://lixianyang.github.io/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>705834854@qq.com (李斯文)</webMaster><lastBuildDate>Thu, 22 Oct 2020 14:42:00 &#43;0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Kubernetes</title>
-    <link>https://lixianyang.github.io/categories/kubernetes/</link>
-    <pubDate>Sun, 09 Aug 2020 23:40:31 &#43;0800</pubDate>
+    <link>https://www.lixianyang.xyz/categories/kubernetes/</link>
+    <pubDate>Thu, 22 Oct 2020 14:42:00 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://lixianyang.github.io/categories/kubernetes/</guid>
+    <guid>https://www.lixianyang.xyz/categories/kubernetes/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Tool</title>
-    <link>https://lixianyang.github.io/categories/tool/</link>
+    <link>https://www.lixianyang.xyz/categories/tool/</link>
     <pubDate>Sat, 23 May 2020 23:40:31 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://lixianyang.github.io/categories/tool/</guid>
+    <guid>https://www.lixianyang.xyz/categories/tool/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Container</title>
-    <link>https://lixianyang.github.io/categories/container/</link>
+    <link>https://www.lixianyang.xyz/categories/container/</link>
     <pubDate>Fri, 22 May 2020 23:40:31 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://lixianyang.github.io/categories/container/</guid>
+    <guid>https://www.lixianyang.xyz/categories/container/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Log</title>
-    <link>https://lixianyang.github.io/categories/log/</link>
+    <link>https://www.lixianyang.xyz/categories/log/</link>
     <pubDate>Fri, 27 Mar 2020 23:40:31 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://lixianyang.github.io/categories/log/</guid>
+    <guid>https://www.lixianyang.xyz/categories/log/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Middleware</title>
-    <link>https://lixianyang.github.io/categories/middleware/</link>
+    <link>https://www.lixianyang.xyz/categories/middleware/</link>
     <pubDate>Fri, 27 Mar 2020 23:40:31 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://lixianyang.github.io/categories/middleware/</guid>
+    <guid>https://www.lixianyang.xyz/categories/middleware/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

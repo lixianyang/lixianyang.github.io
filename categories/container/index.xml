@@ -3,8 +3,8 @@
         <title>Container - 分类 - 李斯文的笔记本</title>
         <link>https://www.lixianyang.xyz/categories/container/</link>
         <description>Container - 分类 - 李斯文的笔记本</description>
-        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>705834854@qq.com (李斯文)</managingEditor>
-            <webMaster>705834854@qq.com (李斯文)</webMaster><lastBuildDate>Fri, 22 May 2020 23:40:31 &#43;0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/categories/container/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>leesven@qq.com (李斯文)</managingEditor>
+            <webMaster>leesven@qq.com (李斯文)</webMaster><lastBuildDate>Fri, 22 May 2020 23:40:31 &#43;0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/categories/container/" rel="self" type="application/rss+xml" /><item>
     <title>docker 内存 limit 与 swap 限制</title>
     <link>https://www.lixianyang.xyz/posts/docker-%E5%86%85%E5%AD%98-limit-%E4%B8%8E-swap-%E9%99%90%E5%88%B6/</link>
     <pubDate>Fri, 22 May 2020 23:40:31 &#43;0800</pubDate>

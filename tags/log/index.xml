@@ -3,8 +3,8 @@
         <title>log - 标签 - 李斯文的笔记本</title>
         <link>https://www.lixianyang.xyz/tags/log/</link>
         <description>log - 标签 - 李斯文的笔记本</description>
-        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>705834854@qq.com (李斯文)</managingEditor>
-            <webMaster>705834854@qq.com (李斯文)</webMaster><lastBuildDate>Fri, 27 Mar 2020 23:40:31 &#43;0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/tags/log/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>leesven@qq.com (李斯文)</managingEditor>
+            <webMaster>leesven@qq.com (李斯文)</webMaster><lastBuildDate>Fri, 27 Mar 2020 23:40:31 &#43;0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/tags/log/" rel="self" type="application/rss+xml" /><item>
     <title>fluentd write to kafka hang</title>
     <link>https://www.lixianyang.xyz/posts/fluentd-write-to-kafka-hang/</link>
     <pubDate>Fri, 27 Mar 2020 23:40:31 &#43;0800</pubDate>

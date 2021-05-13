@@ -4,7 +4,14 @@
         <link>https://www.lixianyang.xyz/posts/</link>
         <description>所有文章 | 李斯文的笔记本</description>
         <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>leesven@qq.com (李斯文)</managingEditor>
-            <webMaster>leesven@qq.com (李斯文)</webMaster><lastBuildDate>Thu, 03 Dec 2020 22:49:34 &#43;0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>leesven@qq.com (李斯文)</webMaster><lastBuildDate>Thu, 13 May 2021 16:56:57 &#43;0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Computer Terminal</title>
+    <link>https://www.lixianyang.xyz/posts/computer-terminal/</link>
+    <pubDate>Thu, 13 May 2021 16:56:57 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://www.lixianyang.xyz/posts/computer-terminal/</guid>
+    <description><![CDATA[terminal 相关文章 wiki: computer terminal wiki: 支持 ANSI escape codes 标准的 VT100 设备 VT 系列设备列表 wiki: terminal emulator 列表 tty 详解 linux 串口编程 RAW 模式 shell 相关文章 wiki: unix shell]]></description>
+</item><item>
     <title>Golang Source Code Articles</title>
     <link>https://www.lixianyang.xyz/posts/golang-source-code-articles/</link>
     <pubDate>Thu, 03 Dec 2020 22:49:34 &#43;0800</pubDate>

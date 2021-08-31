@@ -1,15 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Middleware - 分类 - 李斯文的笔记本</title>
-        <link>https://www.lixianyang.xyz/categories/middleware/</link>
-        <description>Middleware - 分类 - 李斯文的笔记本</description>
-        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>leesven@qq.com (李斯文)</managingEditor>
-            <webMaster>leesven@qq.com (李斯文)</webMaster><lastBuildDate>Fri, 27 Mar 2020 23:40:31 &#43;0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/categories/middleware/" rel="self" type="application/rss+xml" /><item>
-    <title>k8s 集群暴露 kafka 端口</title>
-    <link>https://www.lixianyang.xyz/posts/bitnami-chart-kafka-%E6%B7%BB%E5%8A%A0%E8%AE%A4%E8%AF%81/</link>
-    <pubDate>Fri, 27 Mar 2020 23:40:31 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://www.lixianyang.xyz/posts/bitnami-chart-kafka-%E6%B7%BB%E5%8A%A0%E8%AE%A4%E8%AF%81/</guid>
-    <description><![CDATA[部署方式 使用 bitnami 的 kafka chart 来部署。 暴露端口到集群外 仔细阅读文档可知，标准的 chart 通过配置 values.yaml 文件的 externalAccess 就能通过主机端口来访问到 kafka，部分配置如下: 1]]></description>
-</item></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Middleware - 分类 - 李斯文的笔记本</title><link>https://www.lixianyang.xyz/categories/middleware/</link><description>Middleware - 分类 - 李斯文的笔记本</description><generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>leesven@qq.com (李斯文)</managingEditor><webMaster>leesven@qq.com (李斯文)</webMaster><lastBuildDate>Fri, 27 Mar 2020 23:40:31 +0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/categories/middleware/" rel="self" type="application/rss+xml"/><item><title>k8s 集群暴露 kafka 端口</title><link>https://www.lixianyang.xyz/posts/bitnami-chart-kafka-%E6%B7%BB%E5%8A%A0%E8%AE%A4%E8%AF%81/</link><pubDate>Fri, 27 Mar 2020 23:40:31 +0800</pubDate><author>作者</author><guid>https://www.lixianyang.xyz/posts/bitnami-chart-kafka-%E6%B7%BB%E5%8A%A0%E8%AE%A4%E8%AF%81/</guid><description>部署方式 使用 bitnami 的 kafka chart 来部署。 暴露端口到集群外 仔细阅读文档可知，标准的 chart 通过配置 values.yaml 文件的 externalAccess 就能通过主机端口来访问到 kafka，部分配置如下: 1</description></item></channel></rss>

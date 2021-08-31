@@ -1,15 +1,1 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tool - 分类 - 李斯文的笔记本</title>
-        <link>https://www.lixianyang.xyz/categories/tool/</link>
-        <description>Tool - 分类 - 李斯文的笔记本</description>
-        <generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>leesven@qq.com (李斯文)</managingEditor>
-            <webMaster>leesven@qq.com (李斯文)</webMaster><lastBuildDate>Sat, 23 May 2020 23:40:31 &#43;0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/categories/tool/" rel="self" type="application/rss+xml" /><item>
-    <title>办公环境设置</title>
-    <link>https://www.lixianyang.xyz/posts/%E5%8A%9E%E5%85%AC%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link>
-    <pubDate>Sat, 23 May 2020 23:40:31 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://www.lixianyang.xyz/posts/%E5%8A%9E%E5%85%AC%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</guid>
-    <description><![CDATA[系统 Ubuntu 20.04 LTS Desktop 编辑器 Visual Studio Code 画图工具 Drawio Desktop 图片 图床 阿里云 OSS 服务 压缩 imagemagick 安装: 1 sudo apt-get install imagemagick 主要使用 convert 命令转化图片格式为 webp 来降低图片大小。]]></description>
-</item></channel>
-</rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Tool - 分类 - 李斯文的笔记本</title><link>https://www.lixianyang.xyz/categories/tool/</link><description>Tool - 分类 - 李斯文的笔记本</description><generator>Hugo -- gohugo.io</generator><language>CN</language><managingEditor>leesven@qq.com (李斯文)</managingEditor><webMaster>leesven@qq.com (李斯文)</webMaster><lastBuildDate>Sat, 23 May 2020 23:40:31 +0800</lastBuildDate><atom:link href="https://www.lixianyang.xyz/categories/tool/" rel="self" type="application/rss+xml"/><item><title>办公环境设置</title><link>https://www.lixianyang.xyz/posts/%E5%8A%9E%E5%85%AC%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</link><pubDate>Sat, 23 May 2020 23:40:31 +0800</pubDate><author>作者</author><guid>https://www.lixianyang.xyz/posts/%E5%8A%9E%E5%85%AC%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</guid><description>系统 Ubuntu 20.04 LTS Desktop 编辑器 Visual Studio Code 画图工具 Drawio Desktop 图片 图床 阿里云 OSS 服务 压缩 imagemagick 安装: 1 sudo apt-get install imagemagick 主要使用 convert 命令转化图片格式为 webp 来降低图片大小。</description></item></channel></rss>
